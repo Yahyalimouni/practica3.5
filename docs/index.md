@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Esta práctica consistirá en desplegar una aplicación Flask utilizando un servidor **WSGI** (Gunicorn), que actuará como intermediario entre el servidor web **Nginx** y la aplicación, que en este caso será una aplicación **Flask**.
+Esta práctica consistirá en desplegar una aplicación Flask utilizando un servidor **WSGI** (Gunicorn), que actuará como intermediario entre el servidor web **Nginx** y la aplicación, que en este caso será una aplicación **Flask**. 
  
 
 ## Instalar herramientas de Python:
